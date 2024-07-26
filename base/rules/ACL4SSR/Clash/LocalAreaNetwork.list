@@ -41,3 +41,9 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
+
+# zerotier One
+DST-PORT,9993
+
+# 特殊端口
+DST-PORT,53

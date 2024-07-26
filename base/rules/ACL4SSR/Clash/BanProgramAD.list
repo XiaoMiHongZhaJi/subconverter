@@ -1,6 +1,19 @@
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 
+# mt pdd db
+DOMAIN-KEYWORD,otysdktj.tvfuwu.com
+DOMAIN-KEYWORD,yysh.mgtv.com
+DOMAIN-KEYWORD,qun7.com
+DOMAIN-KEYWORD,dl.tymcdn.com
+DOMAIN-KEYWORD,dl.v5tv.com
+DOMAIN-KEYWORD,updates.cdn-apple.com
+DOMAIN-KEYWORD,beauty-tx-flv.meituan.net
+DOMAIN-KEYWORD,video2-3.pddpic.com
+DOMAIN-KEYWORD,video3-2.pddpic.com
+DOMAIN-KEYWORD,video3-4.pddpic.com
+DOMAIN-KEYWORD,video3-1.pddugc.com
+
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
@@ -598,8 +611,8 @@ DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,splashqqlive.gtimg.com
 DOMAIN,wa.gtimg.com
-DOMAIN,wxsnsdy.wxs.qq.com
-DOMAIN,wxsnsdythumb.wxs.qq.com
+#DOMAIN,wxsnsdy.wxs.qq.com
+#DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
@@ -1100,7 +1113,6 @@ DOMAIN-SUFFIX,dol.tianya.cn
 DOMAIN-SUFFIX,dol.tianyaui.cn
 DOMAIN-SUFFIX,dw.xcar.com.cn
 DOMAIN-SUFFIX,e.nexac.com
-DOMAIN-SUFFIX,eq.10jqka.com.cn
 DOMAIN-SUFFIX,exp.17wo.cn
 DOMAIN-SUFFIX,game.51yund.com
 DOMAIN-SUFFIX,ganjituiguang.ganji.com

@@ -1,0 +1,13 @@
+[Unit]
+Description=sub Server
+After=network.target 
+Wants=network.target
+
+[Service]
+Type=simple
+ExecStart=/root/subconverter/subconverter > /root/subconverter/log.log 2>&1
+Restart=always
+RestartSec=20
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,17 @@
+
+DOMAIN-SUFFIX,wky.chenyifaer.shop
+DOMAIN-SUFFIX,zk.chenyifaer.shop
+DOMAIN-SUFFIX,hi.chenyifaer.shop
+DOMAIN-SUFFIX,b70.chenyifaer.shop
+
+DOMAIN-SUFFIX,v6.chenyifaer.shop
+IP-CIDR6,2606:a8c0:3:757::0/64,no-resolve
+
+DOMAIN-SUFFIX,us2.chenyifaer.shop
+IP-CIDR6,2606:a8c0:3:259::0/64,no-resolve
+
+DOMAIN-SUFFIX,rn6.chenyifaer.shop
+IP-CIDR6,2001:470:c:de::0/64,no-resolve
+
+DOMAIN-SUFFIX,ge.chenyifaer.shop
+IP-CIDR6,2a01:4f8:251:17ad::0/64,no-resolve

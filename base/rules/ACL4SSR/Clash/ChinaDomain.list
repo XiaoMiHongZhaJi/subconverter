@@ -1,5 +1,8 @@
 # 直连列表
 
+DOMAIN-SUFFIX,chenyifaer.shop
+DOMAIN-SUFFIX,xn--4gqy2fnwcsx7i.top
+
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
@@ -76,11 +79,7 @@ DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alisoft.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -89,8 +88,7 @@ DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-KEYWORD,taobao
 DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tmall.com
@@ -99,7 +97,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
+DOMAIN-KEYWORD,youku
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
@@ -200,11 +198,11 @@ DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
 
 # Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgames.dev
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
+#DOMAIN-SUFFIX,epicgames.com
+#DOMAIN-SUFFIX,epicgames.dev
+#DOMAIN-SUFFIX,helpshift.com
+#DOMAIN-SUFFIX,paragon.com
+#DOMAIN-SUFFIX,unrealengine.com
 
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
@@ -695,3 +693,5 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+DOMAIN-SUFFIX,magiconch.com

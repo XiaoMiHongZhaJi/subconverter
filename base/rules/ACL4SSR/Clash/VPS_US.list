@@ -1,0 +1,6 @@
+
+DOMAIN-SUFFIX,us.chenyifaer.shop
+IP-CIDR,38.175.201.0/24,no-resolve
+
+DOMAIN-SUFFIX,v6.chenyifaer.shop
+IP-CIDR6,2606:a8c0:3:757::0/64,no-resolve

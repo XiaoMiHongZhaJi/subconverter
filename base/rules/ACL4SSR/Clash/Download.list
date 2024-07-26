@@ -1,3 +1,10 @@
+
+PROCESS-NAME,hysteria-windows-amd64.exe
+PROCESS-NAME,hysteria-windows-amd64-avx.exe
+PROCESS-NAME,v2ray.exe
+PROCESS-NAME,wxray.exe
+PROCESS-NAME,xray.exe
+
 # Mac Download
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,fdm.exe
@@ -25,3 +32,7 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
+
+#idea
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+PROCESS-NAME,JianyingPro.exe
